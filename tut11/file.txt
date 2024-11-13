@@ -1,0 +1,2 @@
+Create a text file which contains several English paragraph and fill it with some content that you
+can find. File should have words that are duplicated.
